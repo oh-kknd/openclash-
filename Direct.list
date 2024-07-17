@@ -5,10 +5,6 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,pt.soulvoice.club
-DOMAIN-SUFFIX,hdtime.org
-DOMAIN-SUFFIX,rousi.zip
-DOMAIN-SUFFIX,hdkyl.in
 
 
 # 域名关键字匹配
@@ -17,6 +13,13 @@ DOMAIN-KEYWORD,baidu
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,192.168.0.239
+
+# pt网站
+DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,rousi.zip
+DOMAIN-SUFFIX,hdkyl.in
+
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
