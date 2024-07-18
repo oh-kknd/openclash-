@@ -12,7 +12,6 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,192.168.0.239
 
 # pt网站
 DOMAIN-SUFFIX,pt.soulvoice.club
