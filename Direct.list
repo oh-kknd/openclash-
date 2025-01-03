@@ -18,6 +18,7 @@ IP-CIDR,219.146.1.66/32,no-resolve
 DOMAIN-SUFFIX,pt.soulvoice.club
 DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,rousi.zip
 
 
 # 国内DNS
