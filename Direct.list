@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,rousi.zip
 
+# cloudflare控制面板
+DOMAIN-SUFFIX,dash.cloudflare.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
