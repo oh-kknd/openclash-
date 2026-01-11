@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,rousi.zip
 
 # cloudflare控制面板
 DOMAIN-SUFFIX,dash.cloudflare.com
+DOMAIN-SUFFIX,cloudflare-ech.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
