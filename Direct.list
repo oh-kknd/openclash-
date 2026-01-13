@@ -21,8 +21,6 @@ DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,rousi.zip
 
 # cloudflare控制面板
-DOMAIN-SUFFIX,dash.cloudflare.com
-DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-KEYWORD,cloudflare
 
 # 国内DNS
